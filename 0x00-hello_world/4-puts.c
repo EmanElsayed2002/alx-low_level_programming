@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- * main : write a program print a message
+ * main - print  the program prints a message
  *
- * Description :  use puts function to print message 
- * Return : Return 0 means there is no errors
+ * Description: using puts function to print a message
+ *
+ * Return: 0 means there is no errors
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	/* value 0 means there is no errors */
+	return (0);
 }
-
