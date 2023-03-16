@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /*
- * main : write c program to print size of types on the computer
+ * main -  write c program to print size of types on the computer
  *
  * Description : print the size of varios data types in computer
- *
  * Return : return 0 means there is no errors in program
  */
 int main(void)
