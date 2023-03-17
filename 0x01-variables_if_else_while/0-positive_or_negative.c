@@ -8,8 +8,9 @@
  * Description: print whether the number is positive or negative or zero
  * Return: there is no errors
  */
-int main(void){
-  	int n;
+int main(void)
+{
+	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
